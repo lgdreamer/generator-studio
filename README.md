@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/lgdreamer/generator-studio)](https://repl.it/github/lgdreamer/generator-studio)
 #__Studio Template Generator__
 
 ##Getting started
